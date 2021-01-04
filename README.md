@@ -1,6 +1,6 @@
 # TropiCataclysm
 
-a mod for the game Cataclysm: Dark Days Ahead (and possibly Cataclysm: Bright Nights in the future). At the moment the mod is currently a fork of the "Desert Region" mod but the plan is to grow it into a proper content mod.
+a mod for the game Cataclysm: Dark Days Ahead (and possibly Cataclysm: Bright Nights in the future). At the moment the mod is a fork of "Desert Region" but the plan is to grow it into a proper content mod.
 
 ## What is TropiCataclysm?
 
